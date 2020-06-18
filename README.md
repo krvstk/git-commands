@@ -1,6 +1,6 @@
 # Helpful commands for Git
 
-###### Check remote known locally branches: 
+###### Check remote, locally known, branches: 
 `git branch -r`
 
 ###### To update the local list of remote branches:
