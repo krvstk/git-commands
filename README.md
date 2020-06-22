@@ -12,7 +12,7 @@
 ## Pull request algorithm:
 
 0) Add some changed file or all changed files to commit:  
-`git add 'file.html'` or `git add *`
+`git add 'file.html'`   or   `git add *`
 1) Commit changes:  
 `git commit -m 'message text'`
 2) Actualize branch before push:  
