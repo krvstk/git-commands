@@ -22,3 +22,7 @@ or
 3) Push branch with commit to remote repository:  
 `git push origin branchname`
 4) Manually press 'pull request' button on remote repository page on **pushed branch**.
+
+
+###### List conflicted files:  
+`git diff --name-only --diff-filter=U`
