@@ -1,7 +1,13 @@
 # Helpful commands for Git
 
-###### Check remote, locally known, branches: 
+###### Check remote (non-fetched) and local branches: 
 `git branch -r`
+
+###### Check remote branches: 
+`git branch -a`
+
+###### Delete remote branche: 
+`git push origin --delete 'branch-name'`
 
 ###### Update the local list of remote branches:
 `git remote update origin --prune`
