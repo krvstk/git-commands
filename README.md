@@ -32,3 +32,6 @@ or
 
 ###### List conflicted files:  
 `git diff --name-only --diff-filter=U`
+
+###### Stash file:
+`git stash push 'file.html'`
