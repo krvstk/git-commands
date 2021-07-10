@@ -1,5 +1,8 @@
 # Helpful commands for Git
 
+###### Read commit history 
+`git log --oneline --decorate --color --graph`
+
 ###### Check remote (non-fetched) and local branches: 
 `git branch -r`
 
